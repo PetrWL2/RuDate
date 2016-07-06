@@ -1,0 +1,12 @@
+{
+  "name": "petrwl/rudate",
+  "description": "Class formatting dates in Russian",
+  "require": {
+    "php": ">=5.3.0"
+  },
+  "autoload": {
+    "classmap": [
+            "RuDate.php"
+        ]
+  }
+}
