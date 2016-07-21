@@ -19,7 +19,7 @@ RuDate::create('19-06-2016 10:22:33')->format(); // 19 июня в 10:22
     "repositories":[
         {
             "type":"git",
-            "url":"https://github.com/PetrSchegolskov/RuDate"
+            "url":"https://github.com/PetrWL/RuDate"
         }
     ]
 }
